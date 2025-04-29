@@ -2,11 +2,6 @@
 
 This is a theme for the [Zed code editor](https://zed.dev/), inspired by the popular "Dark Modern" theme from Visual Studio Code. It aims to bring a similar look and feel to your Zed environment.
 
-## Screenshot
-
-
-![Screenshot of VSCode Dark Modern Zed Theme](./assets/screenshot.png)
-
 
 ## How to Use
 
@@ -19,3 +14,9 @@ It will be available in the theme selector the next time Zed loads.
 Find more themes at [zed-themes.com](https://zed-themes.com).
 
 6.  Zed should apply the theme immediately. Enjoy!
+
+
+## Screenshot
+
+
+![Screenshot of VSCode Dark Modern Zed Theme](./assets/screenshot.png)
